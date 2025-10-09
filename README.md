@@ -31,5 +31,5 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![VsCode](https://img.shields.io/badge/VsCode-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ntfy](https://img.shields.io/badge/ntfy-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
