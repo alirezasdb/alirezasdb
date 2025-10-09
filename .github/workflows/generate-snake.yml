@@ -1,5 +1,6 @@
 name: Generate Snake
 
+# زمان‌بندی اجرای workflow و امکان اجرا دستی
 on:
   schedule:
     - cron: "0 0 * * *"  # هر روز نیمه شب
@@ -8,26 +9,30 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      # دریافت آخرین نسخه main
+      # 1️⃣ دریافت آخرین نسخه branch main
       - name: Checkout main
         uses: actions/checkout@v3
         with:
           ref: main
 
-      # ساخت مار و ذخیره در dist/
+      # 2️⃣ ساخت پوشه dist (در صورت عدم وجود)
+      - name: Make dist folder
+        run: mkdir -p dist
+
+      # 3️⃣ تولید مار GitHub
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: alirezasdb
           output: dist/github-contribution-grid-snake.svg
 
-      # push فایل به branch output
-      - name: Push Snake to output branch
+      # 4️⃣ Push SVG مار به branch output
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output   # branch خروجی که SVG در آن ذخیره می‌شود
+          build_dir: dist         # پوشه‌ای که فایل SVG در آن ساخته شده
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
