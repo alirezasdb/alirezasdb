@@ -83,3 +83,11 @@
 </p>
 
 </div>
+
+![Poirot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3k3NnFvY2tpaXg2c2E2czhjbnFiN2E1dHBwZW8zdTZnYTRvOTFvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g9582DNuQppxC/giphy.gif)
+
+![AI](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3k3NnFvY2tpaXg2c2E2czhjbnFiN2E1dHBwZW8zdTZnYTRvOTFvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+![Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3k3NnFvY2tpaXg2c2E2czhjbnFiN2E1dHBwZW8zdTZnYTRvOTFvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+![Google Colab](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3k3NnFvY2tpaXg2c2E2czhjbnFiN2E1dHBwZW8zdTZnYTRvOTFvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif)
