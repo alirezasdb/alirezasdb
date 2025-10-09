@@ -1,3 +1,9 @@
+<!-- 🖤 PROFESSIONAL DARK GITHUB PROFILE WITH SNAKE & GIFS -->
+
+<!-- 🎩 Poirot GIF Header -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26gsbW0T6L9b3UQn2/giphy.gif" width="180" />
+</p>
 
 <h1 align="center">
   👋 Hey there, I'm <span style="color:#00BFFF;">Alireza</span>
@@ -18,7 +24,11 @@
 - 🧩 Passionate about **Machine Learning**, **Deep Neural Networks**, and **Data Modeling**
 - 💻 Heavy user of **Google Colab**, **Ubuntu**, and **VSCode**
 - ⚡ Fun fact: *“I debug with caffeine, LLMs, and dark mode only.”*
-- 🖤 Favorite motto: *Keep it clean. Keep it powerful.*
+- 🖤 Motto: *Keep it clean. Keep it powerful.*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
+</p>
 
 ---
 
@@ -50,6 +60,10 @@
   <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=08D9D6"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+</p>
+
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -65,6 +79,14 @@
 
 ---
 
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/alirezasdb/alirezasdb/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
 <h2 align="center">🕹️ Quote of the Day</h2>
 
 <p align="center">
@@ -73,4 +95,6 @@
 
 ---
 
-
+<h3 align="center">
+  🖤 <span style="color:#00BFFF;">Crafted with curiosity, caffeine, and Colab</span> ☕
+</h3>
