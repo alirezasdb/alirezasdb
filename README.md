@@ -1,16 +1,10 @@
-<!-- 🖤 PROFESSIONAL DARK GITHUB PROFILE WITH SNAKE & GIFS -->
-
-<!-- 🎩 Poirot GIF Header -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26gsbW0T6L9b3UQn2/giphy.gif" width="180" />
-</p>
 
 <h1 align="center">
   👋 Hey there, I'm <span style="color:#00BFFF;">Alireza</span>
 </h1>
 
 <h3 align="center">
-  🚀 AI Engineer Intern | 🧠 Deep Learning Enthusiast | 💻 Linux & Colab Power User
+  🚀 AI Engineer Intern | 🧠 Deep Learning Enthusiast | 💻 Linux & Windows(!) & Colab Power User
 </h3>
 
 <p align="center">
@@ -24,7 +18,6 @@
 - 🧩 Passionate about **Machine Learning**, **Deep Neural Networks**, and **Data Modeling**
 - 💻 Heavy user of **Google Colab**, **Ubuntu**, and **VSCode**
 - ⚡ Fun fact: *“I debug with caffeine, LLMs, and dark mode only.”*
-- 🖤 Motto: *Keep it clean. Keep it powerful.*
 
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
@@ -87,7 +80,7 @@
 
 ---
 
-<h2 align="center">🕹️ Quote of the Day</h2>
+<h2 align="center"> Quote </h2>
 
 <p align="center">
   <i>"AI won’t replace humans — but humans using AI will replace those who don’t."</i>
@@ -95,6 +88,3 @@
 
 ---
 
-<h3 align="center">
-  🖤 <span style="color:#00BFFF;">Crafted with curiosity, caffeine, and Colab</span> ☕
-</h3>
