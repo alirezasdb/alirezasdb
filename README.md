@@ -6,7 +6,7 @@
 ### 🌟 About Me
 - 🎯 Focused on **AI, Deep Learning, and Computer Vision**
 - 💬 Ask me about: Python, PyTorch
-- 📫 Reach me: [alireza@gmail.com](mailto:alirezasaidi13802001@gmail.com)
+- 📫 Reach me: [alirezasaidi13802001@gmail.com](mailto:alirezasaidi13802001@gmail.com)
 
 ---
 
