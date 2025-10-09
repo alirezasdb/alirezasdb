@@ -1,8 +1,8 @@
-<!-- 🖤 PROFESSIONAL DARK GITHUB PROFILE WITH SNAKE & GIFS -->
+<!-- 🖤 PROFESSIONAL DARK GITHUB PROFILE WITH SNAKE & AI GIFS -->
 
 <!-- 🎩 Poirot GIF Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26gsbW0T6L9b3UQn2/giphy.gif" width="180" />
+  <img src="https://media.tenor.com/HyNIRhTf2vQAAAAC/hercule-poirot-detective.gif" width="200" alt="Mr. Poirot"/>
 </p>
 
 <h1 align="center">
@@ -27,7 +27,7 @@
 - 🖤 Motto: *Keep it clean. Keep it powerful.*
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
+  <img src="https://media.tenor.com/WdCwra9eZgAAAAAd/artificial-intelligence-ai.gif" width="400" alt="AI Neural GIF"/>
 </p>
 
 ---
@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+  <img src="https://media.tenor.com/tJfcbC7D-e0AAAAd/machine-learning.gif" width="400" alt="AI Data Animation"/>
 </p>
 
 ---
