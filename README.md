@@ -12,7 +12,9 @@
 
 ### 🛠️ Tech Stack
 💻 **Languages:** Python
-🧠 **AI/ML:** PyTorch, TensorFlow, YOLO, OpenCV   
+.
+🧠 **AI/ML:** PyTorch, TensorFlow, YOLO, OpenCV
+.
 ☁️ **Tools:** Docker, Git, Linux, Colab  
 
 ---
