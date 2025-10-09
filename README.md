@@ -38,8 +38,7 @@
 
 ### 🖤 Fun GIFs
 <p align="center">
-  <!-- Poirot Detective GIF -->
-  <img src="https://raw.githubusercontent.com/iamspruce/awesome-gif/master/gifs/ai.gif" width="200" alt="Poirot Detective"/>
+
   <!-- AI Neural Network GIF -->
   <img src="https://raw.githubusercontent.com/iamspruce/awesome-gif/master/gifs/ai.gif" width="400" alt="AI Neural"/>
   <!-- Coding GIF -->
@@ -84,7 +83,7 @@
 
 </div>
 
-![Poirot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3k3NnFvY2tpaXg2c2E2czhjbnFiN2E1dHBwZW8zdTZnYTRvOTFvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g9582DNuQppxC/giphy.gif)
+
 
 ![AI](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3k3NnFvY2tpaXg2c2E2czhjbnFiN2E1dHBwZW8zdTZnYTRvOTFvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif)
 
