@@ -85,7 +85,7 @@
 <h2 align="center"> Quote </h2>
 
 <p align="center">
-  <i>"AI won’t replace humans — but humans using AI will replace those who don’t."</i>
+  <i>""Hastinger, mon ami — AI is my detective’s cane: it illuminates the clues, but the heart of truth still belongs to humans🕵️‍♂️✨""</i>
 </p>
 
 ---
