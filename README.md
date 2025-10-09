@@ -1,9 +1,8 @@
-<!-- 🖤 Alireza’s Black GitHub Profile -->
 
 <div align="center">
 
 # 👋 Welcome to **Alireza’s Black Lab** 🧠  
-> Where Linux, Colab & Artificial Intelligence collide ⚙️
+> Where Colab & Artificial Intelligence collide ⚙️
 
 ---
 
@@ -11,7 +10,7 @@
 💻 AI Enthusiast & Colab Lover  
 🧠 Passionate about Deep Learning & AI Research  
 ⚡ Always experimenting with automation & model optimization  
-🎩 Big fan of Poirot mysteries  
+🎩 Big fan of Poirot 
 
 ---
 
@@ -22,6 +21,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40" title="Ubuntu"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" title="VSCode"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" title="Google Colab"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" title="Docker"/>
 </p>
 
 <p align="center">
@@ -36,18 +36,7 @@
 
 ---
 
-### 🖤 Fun GIFs
-<p align="center">
 
-  <!-- AI Neural Network GIF -->
-  <img src="https://raw.githubusercontent.com/iamspruce/awesome-gif/master/gifs/ai.gif" width="400" alt="AI Neural"/>
-  <!-- Coding GIF -->
-  <img src="https://raw.githubusercontent.com/iamspruce/awesome-gif/master/gifs/coding.gif" width="400" alt="Coding"/>
-  <!-- Google Colab GIF -->
-  <img src="https://raw.githubusercontent.com/iamspruce/awesome-gif/master/gifs/colab.gif" width="400" alt="Google Colab"/>
-</p>
-
----
 
 ### 📈 GitHub Stats
 <p align="center">
@@ -68,25 +57,13 @@
 
 ---
 
-### 🕶️ Quote of the Day
+### 🕶️ 
 <p align="center">
 > “The key to AI is not intelligence — it’s curiosity.” 🤖
 </p>
 
 ---
 
-### ⚡ Extra Fun (Optional)
-<p align="center">
-  <!-- Code Rain Effect -->
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400" alt="Matrix Code Rain"/>
-</p>
-
-</div>
 
 
 
-![AI](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3k3NnFvY2tpaXg2c2E2czhjbnFiN2E1dHBwZW8zdTZnYTRvOTFvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif)
-
-![Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3k3NnFvY2tpaXg2c2E2czhjbnFiN2E1dHBwZW8zdTZnYTRvOTFvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif)
-
-![Google Colab](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3k3NnFvY2tpaXg2c2E2czhjbnFiN2E1dHBwZW8zdTZnYTRvOTFvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif)
