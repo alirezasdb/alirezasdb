@@ -5,16 +5,15 @@
 <!-- 🎩 پوارو GIF -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3k3NnFvY2tpaXg2c2E2czhjbnFiN2E1dHBwZW8zdTZnYTRvOTFvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g9582DNuQppxC/giphy.gif" width="200" />
 
-# 🖤 Welcome to **Alireza’s Black Lab** 🧠  
+#  Welcome to **Alireza’s Black Lab** 🧠  
 > Where Linux, Colab & Artificial Intelligence collide ⚙️
 
 ---
 
 ### 🧩 About Me
-💻 Linux Enthusiast & Colab Master  
+💻 AI Enthusiast & Colab Lover :)  
 🧠 Passionate about Deep Learning & AI Research  
 ⚡ Always experimenting with automation & model optimization  
-📚 Currently exploring: Generative AI + Edge AI  
 
 ---
 
@@ -24,8 +23,8 @@
 | 🧠 AI / ML | PyTorch, TensorFlow, Scikit-Learn |
 | 🧮 Data | Pandas, NumPy, OpenCV |
 | ☁️ Cloud / Colab | Google Colab, Kaggle, Hugging Face |
-| 🐧 OS | Ubuntu, Kali, Arch Linux |
-| 🧰 Dev Tools | VSCode, Git, Docker |
+| 🐧 OS | Ubuntu Linux | Windows :) |
+| 🧰 Dev Tools | VSCode, Docker |
 
 ---
 
