@@ -76,6 +76,7 @@
 
 <p align="center">
   <img src="https://github.com/alirezasdb/alirezasdb/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  ![snake gif](https://github.com/alirezasdb/alirezasdb/blob/output/github-contribution-grid-snake.svg)
  
 
 </p>
@@ -89,5 +90,4 @@
 </p>
 
 ---
-![snake gif](https://github.com/alirezasdb/alirezasdb/blob/output/github-contribution-grid-snake.svg)
 
