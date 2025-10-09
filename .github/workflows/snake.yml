@@ -16,7 +16,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: alirezasdb
-          outputs: dist/github-contribution-grid-snake.svg
+          output: dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
