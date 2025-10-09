@@ -1,19 +1,34 @@
-<!-- پروفایل حرفه‌ای GitHub برای alirezasdb -->
+<!-- 🖤 Alireza’s Animated Dark GitHub Profile -->
 
 <div align="center">
 
-<!-- 🎩 پوارو GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3k3NnFvY2tpaXg2c2E2czhjbnFiN2E1dHBwZW8zdTZnYTRvOTFvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g9582DNuQppxC/giphy.gif" width="200" />
+<!-- 🎩 Poirot GIF -->
+<img src="https://media.tenor.com/HyNIRhTf2vQAAAAC/hercule-poirot-detective.gif" width="180" alt="Mr. Poirot"/>
 
-#  Welcome to **Alireza’s Black Lab** 🧠  
+# 👋 Welcome to **Alireza’s Black Lab** 🧠  
 > Where Linux, Colab & Artificial Intelligence collide ⚙️
 
 ---
 
 ### 🧩 About Me
-💻 AI Enthusiast & Colab Lover :)  
+💻 AI Enthusiast & Colab Lover  
 🧠 Passionate about Deep Learning & AI Research  
 ⚡ Always experimenting with automation & model optimization  
+
+<p align="center">
+  <!-- 🤖 AI GIF -->
+  <img src="https://media.tenor.com/WdCwra9eZgAAAAAd/artificial-intelligence-ai.gif" width="400" alt="AI Neural GIF"/>
+</p>
+
+<p align="center">
+  <!-- 💻 Coding GIF -->
+  <img src="https://media.tenor.com/XpI-JKkB1RkAAAAC/programming-coding.gif" width="400" alt="Coding"/>
+</p>
+
+<p align="center">
+  <!-- ☁️ Cloud / Colab GIF -->
+  <img src="https://media.tenor.com/9pZ2M-F4qX8AAAAC/google-colab.gif" width="400" alt="Google Colab"/>
+</p>
 
 ---
 
@@ -25,11 +40,6 @@
 | ☁️ Cloud / Colab | Google Colab, Kaggle, Hugging Face |
 | 🐧 OS | Ubuntu Linux | Windows :) |
 | 🧰 Dev Tools | VSCode, Docker |
-
----
-
-<!-- 🤖 AI GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTgxNGhxdWk0Y29ndWhlcjM1NnpwMjg5ZTBmbGg3bDBha2h5cm9laCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="400" />
 
 ---
 
@@ -47,5 +57,10 @@
 
 ### 🕶️ Quote of the Day
 > “The key to AI is not intelligence — it’s curiosity.” 🤖
+
+<p align="center">
+  <!-- 🖤 Fun / Tech GIF -->
+  <img src="https://media.tenor.com/6iC6vM6gFvYAAAAC/technology-ai.gif" width="400" alt="Tech Fun"/>
+</p>
 
 </div>
