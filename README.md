@@ -1,100 +1,52 @@
-<!-- 🖤 PROFESSIONAL DARK GITHUB PROFILE WITH SNAKE & AI GIFS -->
+<!-- پروفایل حرفه‌ای GitHub برای alirezasdb -->
 
-<!-- 🎩 Poirot GIF Header -->
-<p align="center">
-  <img src="https://media.tenor.com/HyNIRhTf2vQAAAAC/hercule-poirot-detective.gif" width="200" alt="Mr. Poirot"/>
-</p>
+<div align="center">
 
-<h1 align="center">
-  👋 Hey there, I'm <span style="color:#00BFFF;">Alireza</span>
-</h1>
+<!-- 🎩 پوارو GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3k3NnFvY2tpaXg2c2E2czhjbnFiN2E1dHBwZW8zdTZnYTRvOTFvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g9582DNuQppxC/giphy.gif" width="200" />
 
-<h3 align="center">
-  🚀 AI Engineer Intern | 🧠 Deep Learning Enthusiast | 💻 Linux & Colab Power User
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alirezasdb&label=Profile%20Views&color=gray&style=flat-square" alt="profile views"/>
-</p>
+# 🖤 Welcome to **Alireza’s Black Lab** 🧠  
+> Where Linux, Colab & Artificial Intelligence collide ⚙️
 
 ---
 
-### 🧠 About Me
-
-- 🧩 Passionate about **Machine Learning**, **Deep Neural Networks**, and **Data Modeling**
-- 💻 Heavy user of **Google Colab**, **Ubuntu**, and **VSCode**
-- ⚡ Fun fact: *“I debug with caffeine, LLMs, and dark mode only.”*
-- 🖤 Motto: *Keep it clean. Keep it powerful.*
-
-<p align="center">
-  <img src="https://media.tenor.com/WdCwra9eZgAAAAAd/artificial-intelligence-ai.gif" width="400" alt="AI Neural GIF"/>
-</p>
+### 🧩 About Me
+💻 Linux Enthusiast & Colab Master  
+🧠 Passionate about Deep Learning & AI Research  
+⚡ Always experimenting with automation & model optimization  
+📚 Currently exploring: Generative AI + Edge AI  
 
 ---
 
-<h2 align="center">⚙️ Tech Stack</h2>
-
-<p align="center">
-
-  <!-- 💻 Environments -->
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-  <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=F9AB00"/>
-  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4"/>
-
-  <!-- 🤖 AI & ML -->
-  <br>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-  <img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=D00000"/>
-  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=13A8E3"/>
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=E70488"/>
-
-  <!-- 🧰 Tools -->
-  <br>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=08D9D6"/>
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/tJfcbC7D-e0AAAAd/machine-learning.gif" width="400" alt="AI Data Animation"/>
-</p>
+### ⚙️ Tech Stack
+| Area | Tools & Frameworks |
+|------|--------------------|
+| 🧠 AI / ML | PyTorch, TensorFlow, Scikit-Learn |
+| 🧮 Data | Pandas, NumPy, OpenCV |
+| ☁️ Cloud / Colab | Google Colab, Kaggle, Hugging Face |
+| 🐧 OS | Ubuntu, Kali, Arch Linux |
+| 🧰 Dev Tools | VSCode, Git, Docker |
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alirezasdb&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezasdb&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezasdb&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<!-- 🤖 AI GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTgxNGhxdWk0Y29ndWhlcjM1NnpwMjg5ZTBmbGg3bDBha2h5cm9laCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="400" />
 
 ---
 
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
+### 📈 GitHub Stats
+![Alireza’s GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezasdb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-<p align="center">
-  <img src="https://github.com/alirezasdb/alirezasdb/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-<h2 align="center">🕹️ Quote of the Day</h2>
-
-<p align="center">
-  <i>"AI won’t replace humans — but humans using AI will replace those who don’t."</i>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezasdb&layout=compact&theme=radical&bg_color=0D1117&hide_border=true)
 
 ---
 
-<h3 align="center">
-  🖤 <span style="color:#00BFFF;">Crafted with curiosity, caffeine, and Colab</span> ☕
-</h3>
+### 🐍 Snake Eating My Contributions
+![snake gif](https://github.com/alirezasdb/alirezasdb/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🕶️ Quote of the Day
+> “The key to AI is not intelligence — it’s curiosity.” 🤖
+
+</div>
