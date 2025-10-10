@@ -72,16 +72,6 @@
 
 ---
 
-# 🐍 Snake Eating My Contributions
-![snake gif](https://raw.githubusercontent.com/alirezasdb/alirezasdb/output/github-contribution-grid-snake.svg)
-
-
- 
-
-</p>
-
----
-
 <h2 align="center"> Quote </h2>
 
 <p align="center">
