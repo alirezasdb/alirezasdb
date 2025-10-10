@@ -9,8 +9,6 @@
 
 <p align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=alirezasdb&label=Profile%20Views&color=gray&style=flat-square" alt="profile views"/>
-</p>
 
 ---
 
@@ -20,9 +18,7 @@
 - 💻 Heavy user of **Google Colab**, **Ubuntu**, and **VSCode**
 - ⚡ Fun fact: *“I debug with caffeine, LLMs, and dark mode only.”*
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
-</p>
+
 
 ---
 
