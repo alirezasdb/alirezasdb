@@ -8,6 +8,7 @@
 </h3>
 
 <p align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=alirezasdb&label=Profile%20Views&color=gray&style=flat-square" alt="profile views"/>
 </p>
 
@@ -73,6 +74,10 @@
 ---
 
 <h2 align="center"> Quote </h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHduaTVtd2p1dm9jNmJnbDZveXhrbGlnMDBldTJpYTBjem52dW81NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IMFO1XDUkWSmA/giphy.gif" width="300" alt="Poirot Thinking"/>
+</p>
 
 <p align="center">
   <i>""Hastings, mon ami — AI is my detective’s cane: it illuminates the clues, but the heart of truth still belongs to humans🕵️‍♂️✨""</i>
