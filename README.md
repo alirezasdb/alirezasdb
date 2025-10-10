@@ -75,7 +75,7 @@
 <h2 align="center"> Quote </h2>
 
 <p align="center">
-  <i>""Hastinger, mon ami — AI is my detective’s cane: it illuminates the clues, but the heart of truth still belongs to humans🕵️‍♂️✨""</i>
+  <i>""Hastings, mon ami — AI is my detective’s cane: it illuminates the clues, but the heart of truth still belongs to humans🕵️‍♂️✨""</i>
 </p>
 
 ---
