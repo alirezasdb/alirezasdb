@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
   <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=08D9D6"/>
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=sklearn&logoColor=08D9D6"/>
+
 </p>
 
 
